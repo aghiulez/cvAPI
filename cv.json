@@ -1,0 +1,484 @@
+{
+    "basics":{
+       "name":"Ara Matthew",
+       "label":"Software Engineer",
+       "image":"https://avatars1.githubusercontent.com/u/29055643?v=4",
+       "email":"aghiulezian@gmail.com",
+       "phone":"",
+       "url":"https://www.AraMatthew.com",
+       "summary":"I graduated in June of 2019 from the University of California, Irvine with a Bachelor’s of Science in Software Engineering. \n\nAfter the completion of my studies, I began volunteering with Birthright Armenia, an experience which showcased my strong aptitude for troubleshooting and developing quick, yet innovative solutions to technical problems. \n\n",
+       "profiles":[
+          {
+             "network":"gitconnected",
+             "username":"aghiulez",
+             "url":"https://gitconnected.com/aghiulez"
+          },
+          {
+             "network":"GitHub",
+             "username":"aghiulez",
+             "url":"https://github.com/aghiulez"
+          },
+          {
+             "network":"LinkedIn",
+             "url":"https://www.linkedin.com/in/aramatthew/",
+             "username":"aramatthew"
+          }
+       ],
+       "headline":"Software Engineer",
+       "blog":null,
+       "yearsOfExperience":2,
+       "username":"aghiulez",
+       "locationAsString":"Los Angeles",
+       "region":"Los Angeles",
+       "karma":28,
+       "id":"d9f36cb7-badb-4150-a80b-6d2eb11b775c",
+       "followers":1,
+       "following":0,
+       "picture":"https://avatars1.githubusercontent.com/u/29055643?v=4",
+       "website":"https://www.AraMatthew.com"
+    },
+    "skills":[
+       {
+          "name":"Python",
+          "level":"Advanced",
+          "keywords":[
+             
+          ],
+          "rating":4,
+          "yearsOfExperience":5
+       },
+       {
+          "name":"JavaScript",
+          "level":"Intermediate",
+          "keywords":[
+             
+          ],
+          "rating":3,
+          "yearsOfExperience":2
+       },
+       {
+          "name":"Java",
+          "level":"Advanced",
+          "keywords":[
+             
+          ],
+          "rating":4,
+          "yearsOfExperience":4
+       },
+       {
+          "name":"C++",
+          "level":"Intermediate",
+          "keywords":[
+             
+          ],
+          "rating":3,
+          "yearsOfExperience":3
+       }
+    ],
+    "projects":[
+       {
+          "name":"rehabaseal",
+          "description":"RehabASeal is an educational application developed for the Pacific Marine Mammal Center (based in Laguna Beach CA). It contains interactive narratives of real animals in the facility along with a game to guide the user through the rehabilitation process.",
+          "url":"https://media.giphy.com/media/ii2icbwQbqR8tAnt1K/giphy.gif",
+          "highlights":[
+             
+          ],
+          "keywords":[
+             
+          ],
+          "roles":[
+             
+          ],
+          "startDate":"",
+          "endDate":"",
+          "entity":"",
+          "type":"",
+          "displayName":"RehabASeal",
+          "website":"https://media.giphy.com/media/ii2icbwQbqR8tAnt1K/giphy.gif",
+          "summary":"RehabASeal is an educational application developed for the Pacific Marine Mammal Center (based in Laguna Beach CA). It contains interactive narratives of real animals in the facility along with a game to guide the user through the rehabilitation process.",
+          "primaryLanguage":"C#",
+          "languages":[
+             "C#"
+          ],
+          "libraries":[
+             "Unity",
+             "Photoshop CS6"
+          ],
+          "githubUrl":"https://aramatthew.com/RehabASeal/",
+          "repositoryUrl":"https://aramatthew.com/RehabASeal/",
+          "start":{
+             "month":1
+          },
+          "end":{
+             "month":1
+          },
+          "images":[
+             
+          ],
+          "videos":[
+             
+          ]
+       },
+       {
+          "name":"maze",
+          "description":"A Maze generator and solver program developed using the DFS algorithm through recursive backtracking. The program allows the user the generate a maze with any given dimensions.",
+          "url":"https://media.giphy.com/media/kZis5BZ6kcOddDOfUv/giphy.gif",
+          "highlights":[
+             
+          ],
+          "keywords":[
+             
+          ],
+          "roles":[
+             
+          ],
+          "startDate":"",
+          "endDate":"",
+          "entity":"",
+          "type":"",
+          "displayName":"Maze",
+          "website":"https://media.giphy.com/media/kZis5BZ6kcOddDOfUv/giphy.gif",
+          "summary":"A Maze generator and solver program developed using the DFS algorithm through recursive backtracking. The program allows the user the generate a maze with any given dimensions.",
+          "primaryLanguage":"Java",
+          "languages":[
+             "Java"
+          ],
+          "libraries":[
+             "Algorithms",
+             "JavaFX",
+             "jpro",
+             "Gradle",
+             "MVC"
+          ],
+          "githubUrl":"https://github.com/aghiulez/Maze",
+          "repositoryUrl":"https://github.com/aghiulez/Maze",
+          "start":{
+             "month":1
+          },
+          "end":{
+             "month":1
+          },
+          "images":[
+             
+          ],
+          "videos":[
+             
+          ]
+       },
+       {
+          "name":"zipcodesearch",
+          "description":"A server-side web application built using NodeJS and React.  Both the Client and API may be run either locally or through dockerized containers.",
+          "url":"https://media.giphy.com/media/fxTtQq5Di4W50qCVCC/giphy.gif",
+          "highlights":[
+             
+          ],
+          "keywords":[
+             
+          ],
+          "roles":[
+             
+          ],
+          "startDate":"",
+          "endDate":"",
+          "entity":"",
+          "type":"",
+          "displayName":"ZipcodeSearch",
+          "website":"https://media.giphy.com/media/fxTtQq5Di4W50qCVCC/giphy.gif",
+          "summary":"A server-side web application built using NodeJS and React.  Both the Client and API may be run either locally or through dockerized containers.",
+          "primaryLanguage":"JavaScript",
+          "languages":[
+             "TypeScript",
+             "CSS",
+             "HTML",
+             "JavaScript"
+          ],
+          "libraries":[
+             "Docker",
+             "React",
+             "Node"
+          ],
+          "githubUrl":"https://github.com/aghiulez/ZipcodeSearch",
+          "repositoryUrl":"https://github.com/aghiulez/ZipcodeSearch",
+          "start":{
+             "month":1
+          },
+          "end":{
+             "month":1
+          },
+          "images":[
+             
+          ],
+          "videos":[
+             
+          ]
+       },
+       {
+          "name":"myportfolio",
+          "description":"My online developer-portfolio to showcase my experience, accomplishments, and projects. Supported to be viewed on both Mobile and Web.",
+          "url":"https://media.giphy.com/media/QuPI4By8i5tVCT5Fvr/giphy.gif",
+          "highlights":[
+             
+          ],
+          "keywords":[
+             
+          ],
+          "roles":[
+             
+          ],
+          "startDate":"",
+          "endDate":"",
+          "entity":"",
+          "type":"",
+          "displayName":"myPortfolio",
+          "website":"https://media.giphy.com/media/QuPI4By8i5tVCT5Fvr/giphy.gif",
+          "summary":"My online developer-portfolio to showcase my experience, accomplishments and projects. Supported to be viewed on both Mobile and Web.",
+          "primaryLanguage":"JavaScript",
+          "languages":[
+             "JavaScript",
+             "CSS",
+             "HTML"
+          ],
+          "libraries":[
+             "React"
+          ],
+          "githubUrl":"https://github.com/aghiulez/myPortfolio",
+          "repositoryUrl":"https://github.com/aghiulez/myPortfolio",
+          "start":{
+             "month":1
+          },
+          "end":{
+             "month":1
+          },
+          "images":[
+             
+          ],
+          "videos":[
+             
+          ]
+       },
+       {
+          "name":"boardgames",
+          "description":"An extensible Board Game Environment that accommodates any board game that involves a grid layout and game elements on this layout, including games such as Chess, Checkers, Tic-Tac-Toe, Gomoku, Connect Four, Nine Men's Morris, Chutes and Ladders, Stratego, Shogi, Pente, Battleship…",
+          "url":"https://media.giphy.com/media/dXLgRXbvYF68AnZRfH/giphy.gif",
+          "highlights":[
+             
+          ],
+          "keywords":[
+             
+          ],
+          "roles":[
+             
+          ],
+          "startDate":"",
+          "endDate":"",
+          "entity":"",
+          "type":"",
+          "displayName":"BoardGames",
+          "website":"https://media.giphy.com/media/dXLgRXbvYF68AnZRfH/giphy.gif",
+          "summary":"An extensible Board Game Environment that accommodates any board game that involves a grid layout and game elements on this layout, including games such as Chess, Checkers, Tic-Tac-Toe, Gomoku, Connect Four, Nine Men's Morris, Chutes and Ladders, Stratego, Shogi, Pente, Battleship…",
+          "primaryLanguage":"Java",
+          "languages":[
+             "MVC-architecture",
+             "Java"
+          ],
+          "libraries":[
+             "Maven",
+             "JavaFx"
+          ],
+          "githubUrl":"https://github.com/aghiulez/BoardGames",
+          "repositoryUrl":"https://github.com/aghiulez/BoardGames",
+          "start":{
+             "month":1
+          },
+          "end":{
+             "month":1
+          },
+          "images":[
+             
+          ],
+          "videos":[
+             
+          ]
+       }
+    ],
+    "work":[
+       {
+          "name":"GRÜV",
+          "location":"Yerevan, Armenia",
+          "description":"",
+          "position":"Software Engineering Intern",
+          "url":"https://www.gruv.me/",
+          "startDate":"2019-11-01",
+          "endDate":"2020-02-01",
+          "summary":"Worked with an established team of software professionals and interacted with product managers, the marketing team, and designers on a daily basis",
+          "highlights":[
+             "https://raw.githubusercontent.com/aghiulez/aghiulez.github.io/spring-cleaning/src/assets/GR%C3%9CV.png"
+          ],
+          "isCurrentRole":false,
+          "start":{
+             "year":2019,
+             "month":10
+          },
+          "end":{
+             "year":2020,
+             "month":1
+          },
+          "company":"GRÜV",
+          "website":"https://www.gruv.me/"
+       },
+       {
+          "name":"WCIT 2019",
+          "location":"Yerevan Armenia",
+          "description":"",
+          "position":"Panel Coordinator",
+          "url":"https://wcit2019.org/",
+          "startDate":"2019-09-01",
+          "endDate":"2019-10-01",
+          "summary":"Served as an effective communication link between eight industry professionals visiting Armenia for the World\nConference of Information Technology",
+          "highlights":[
+             "https://raw.githubusercontent.com/aghiulez/aghiulez.github.io/spring-cleaning/src/assets/WCIT%202019.png"
+          ],
+          "isCurrentRole":false,
+          "start":{
+             "year":2019,
+             "month":8
+          },
+          "end":{
+             "year":2019,
+             "month":9
+          },
+          "company":"WCIT 2019",
+          "website":"https://wcit2019.org/"
+       },
+       {
+          "name":"Techno-Educational Academy",
+          "location":"Gyumri, Armenia",
+          "description":"",
+          "position":"Python Workshop Instructor",
+          "url":"http://www.g-tea.am/?lang=en",
+          "startDate":"2019-08-01",
+          "endDate":"2019-09-01",
+          "summary":"Taught a 2 hour daily Python course to a classroom of 10 students from novice to intermediate levels of programming",
+          "highlights":[
+             "https://raw.githubusercontent.com/aghiulez/aghiulez.github.io/spring-cleaning/src/assets/Techno-Educational%20Academy.png"
+          ],
+          "isCurrentRole":false,
+          "start":{
+             "year":2019,
+             "month":7
+          },
+          "end":{
+             "year":2019,
+             "month":8
+          },
+          "company":"Techno-Educational Academy",
+          "website":"http://www.g-tea.am/?lang=en"
+       },
+       {
+          "name":"MetaResolve, Inc.",
+          "location":"",
+          "description":"",
+          "position":"IT Consultant",
+          "url":"",
+          "startDate":"2017-06-01",
+          "endDate":"2017-09-01",
+          "summary":"Worked in partnership with clients, advising and assisting them on how to use various different technologies in order to meet their business objectives and to overcome problems.",
+          "highlights":[
+             "https://raw.githubusercontent.com/aghiulez/aghiulez.github.io/source/src/assets/ITCON.png"
+          ],
+          "isCurrentRole":false,
+          "start":{
+             "year":2017,
+             "month":5
+          },
+          "end":{
+             "year":2017,
+             "month":8
+          },
+          "company":"MetaResolve, Inc.",
+          "website":""
+       }
+    ],
+    "publications":[
+       
+    ],
+    "education":[
+       {
+          "institution":"University of California, Irvine",
+          "url":"",
+          "area":"Software Engineering",
+          "studyType":"Bachelor's of Science",
+          "startDate":"2015-08-01",
+          "endDate":"2019-06-01",
+          "score":"",
+          "courses":[
+             
+          ],
+          "description":"",
+          "activities":"",
+          "start":{
+             "year":2015,
+             "month":7
+          },
+          "end":{
+             "year":2019,
+             "month":5
+          },
+          "website":"",
+          "gpa":""
+       }
+    ],
+    "volunteer":[
+       {
+          "organization":"Birthright Armenia",
+          "position":"Volunteer",
+          "url":"https://www.birthrightarmenia.org/en/",
+          "startDate":"2019-08-01",
+          "endDate":"2020-02-01",
+          "summary":"Contributed to Armenia's development through professional work, study and volunteer experiences, while developing life-long personal ties and a renewed sense of Armenian identity.",
+          "highlights":[
+             
+          ],
+          "location":"Armenia",
+          "start":{
+             "year":2019,
+             "month":7
+          },
+          "end":{
+             "year":2020,
+             "month":1
+          },
+          "website":"https://www.birthrightarmenia.org/en/"
+       }
+    ],
+    "awards":[
+       {
+          "title":"Ingenuity 2019 UCI Student Technology Showcase",
+          "date":"2019-06-01",
+          "awarder":"University of California, Irvine",
+          "summary":"An annual showcase event that features the top student innovations from both the Donald Bren School of Information and Computer Sciences and The Henry Samueli School of Engineering at the University of California, Irvine.",
+          "fullDate":{
+             "year":2019,
+             "month":5
+          }
+       }
+    ],
+    "languages":[
+       
+    ],
+    "interests":[
+       
+    ],
+    "references":[
+       
+    ],
+    "certificates":[
+       
+    ],
+    "meta":{
+       "note":"This is a combined version of the old and new JSON Resume API to provide maximum compatibility. You will notice duplicated values in different fields.",
+       "canonical":"https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+       "version":"v1.0.0",
+       "lastModified":"2020-12-29T15:53:00"
+    }
+ }
